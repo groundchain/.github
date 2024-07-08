@@ -9,7 +9,7 @@ Visit our website: [groundchain.space](https://groundchain.space)
 1. Blockets
 
 - Description: A cutting-edge platform for creating, distributing, and managing event tickets backed by NFTs.
-- Repository: [NFTickets](https://github.com/groundchain/blockets)
+- Repository: [Blockets](https://github.com/groundchain/blockets)
 
 # How to Get Involved
 
