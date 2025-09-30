@@ -2,7 +2,7 @@
 
 GroundChain is a foundational platform for developing and deploying many blockchain projects. Our first product, Blockets, aims to revolutionize the event ticketing industry with NFT-backed tickets, ensuring authenticity and security.
 
-Visit our website: [groundchain.space](https://groundchain.space)
+Visit our website: [groundchain.github.io](https://groundchain.github.io)
 
 # Our Projects
 
